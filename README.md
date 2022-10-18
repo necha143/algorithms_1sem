@@ -3,8 +3,7 @@
   -  [first](https://github.com/necha143/algorithms/blob/main/lab1/1.py) <br />
   -  [second](https://github.com/necha143/algorithms/blob/main/lab1/2.py) <br />
   -  [Fridge](https://github.com/necha143/algorithms/blob/main/lab1/holodosAISD.py) <br />
-### **Lab2:**
- <br />
+### **Lab2:** <a
      Требуется вставить в данный массив на данное место данный элемент, сдвинув остальные элементы вправо:  <br />
   -  [insert numb](https://github.com/necha143/algorithms/blob/main/lab2/insert_numb.cpp) <br />
      Требуется отсортировать массив по неубыванию методом "вставок":  <br />
