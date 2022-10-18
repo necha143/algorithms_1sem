@@ -26,3 +26,14 @@
      [**anti_quick-sort**](https://github.com/necha143/algorithms/blob/main/lab2/Anti_Q_Sort.cpp) <br />
   -  Дан массив из n элементов. Какое число к-ое в порядке возрастания в этом массиве?:  <br />
      [**k'th order statistic**](https://github.com/necha143/algorithms/blob/main/lab2/Kats_poryad_stats.cpp) <br />
+### **Lab3:**
+  -  Реализуйте работу очереди. Для каждой операции изъятия элемента выведите её результат: <br />
+     [**QUEUE**](https://github.com/necha143/algorithms/blob/main/lab3/Queue.cpp) <br />
+  -  Реализуйте работу стека. Для каждой операции изъяятия элемента выведите её результат: <br />
+     [**STAK**](https://github.com/necha143/algorithms/blob/main/lab3/Stak.cpp) <br />
+  -  Правильная скобочная последовательность: <br />
+     [**brackets**](https://github.com/necha143/algorithms/blob/main/lab3/Right_brackets.cpp) <br />
+  -  Постфикнсная запись (или обратная польская запись):  <br />
+     [**postfix**](https://github.com/necha143/algorithms/blob/main/lab3/Postfix.cpp) <br />
+  -  Реализация работы макстека: <br />
+     [makstak](https://github.com/necha143/algorithms/blob/main/lab3/Makstak.cpp) <br />
