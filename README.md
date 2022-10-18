@@ -1,4 +1,4 @@
-**Lab1:**
+**Lab1: (bold)**
 
   [first](https://github.com/necha143/algorithms/blob/main/lab1/1.py)
   
