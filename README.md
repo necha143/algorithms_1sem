@@ -1,4 +1,4 @@
-##**Lab1:**
+## **Lab1:**
 
   -  [first](https://github.com/necha143/algorithms/blob/main/lab1/1.py)
   
@@ -6,7 +6,7 @@
   
   -  [Fridge](https://github.com/necha143/algorithms/blob/main/lab1/holodosAISD.py)
 
-##**Lab2:**
+## **Lab2:**
 
   -  [insert numb](https://github.com/necha143/algorithms/blob/main/lab2/insert_numb.cpp)
   
