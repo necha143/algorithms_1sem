@@ -37,5 +37,5 @@
      [**postfix**](https://github.com/necha143/algorithms/blob/main/lab3/Postfix.cpp) <br />
   -  Реализация работы макстека: <br />
      [makstak](https://github.com/necha143/algorithms/blob/main/lab3/Makstak.cpp) <br />
-  -  Дан массив из n элементов, упорядоченный в порядке неубывания, и m запросов: найти первое и последнее вхождение числа в массив. <br />
+  -  Дан массив из n элементов и m запросов: найти первое и последнее вхождение числа в массив. Т.е. бинарный поиск: <br />
      [**bin. search**](https://github.com/necha143/algorithms/blob/main/lab3/bin_search.cpp) <br />
