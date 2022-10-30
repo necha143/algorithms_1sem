@@ -12,7 +12,7 @@ long long min_search(int n, int k, int array[]) {
         }
     }
 
-    long long left=max_elem;// наим возможная сумма при разбиении
+    long long left=max_elem-1;// наим возможная сумма при разбиении
     long long right=sum;// наиб возможная суммма при разбиении
     while (left<right-1){
         long long middle=(left+right)/2;
