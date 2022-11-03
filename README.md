@@ -44,3 +44,8 @@
   -  Вам задан массив из n натуральных чисел.
 Разделите его ровно на k массивов так, чтобы сумма чисел в массиве с самой большой суммой чисел была минимально возможной. <br />
      [Splitting of array](https://github.com/necha143/algorithms/blob/main/lab3/splitting_of_array.cpp) <br />
+### **Lab4:**
+  -  Выяснить, является ли последовательность неубывающей пирамидой (кучей) <br />
+     [heap...?](https://github.com/necha143/algorithms/blob/main/lab4/is_heap.cpp) <br />
+  -  Пирамидальная сортировка (сортировка кучей) <br />
+     [**heap sort**](https://github.com/necha143/algorithms/blob/main/lab4/heap_sort.cpp) <br />
