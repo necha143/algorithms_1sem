@@ -49,3 +49,7 @@
      [heap...?](https://github.com/necha143/algorithms/blob/main/lab4/is_heap.cpp) <br />
   -  Пирамидальная сортировка (сортировка кучей): <br />
      [**heap sort**](https://github.com/necha143/algorithms/blob/main/lab4/heap_sort.cpp) <br />
+  -  Реализуйте приоритетную очередь. Очередь должна поддерживать следующие операции: добавить элемент (push x), извлечь минимальный элемент (extract-min), уменьшить элемент (decrease-key x y), добавленный во время одной из операций. <br />
+     [priority queue](https://github.com/necha143/algorithms/blob/main/lab4/priority_queue.cpp) <br />
+  -  Дано n строк, выведите их порядок после k фаз цифровой сортировки. <br />
+     [**radix sort**](https://github.com/necha143/algorithms/blob/main/lab4/radix_sort.cpp) <br />
