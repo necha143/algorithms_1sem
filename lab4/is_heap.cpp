@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 void is_heap(int n, int *array){
@@ -35,4 +35,4 @@ int main(){
 
     is_heap(n,array);
     return 0;
-}*/
+}
