@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 bool check(int array[][3], int min, int max, int i){
@@ -37,4 +37,4 @@ int main(){
     }
 
     return 0;
-}*/
+}
