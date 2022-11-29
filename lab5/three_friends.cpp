@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 struct node{
@@ -165,4 +165,4 @@ int main(){
     }
 
     ban.print(array1, array2, array3, n);
-}*/
+}
