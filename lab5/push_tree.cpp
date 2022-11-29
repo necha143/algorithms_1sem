@@ -1,4 +1,4 @@
-/*#include <iostream>
+include <iostream>
 using namespace std;
 int k=1;
 
@@ -31,4 +31,4 @@ int main (){
     push(array,1);
     print(array,n);
     return 0;
-}*/
+}
