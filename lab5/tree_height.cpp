@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 int check(int left, int right){
@@ -40,4 +40,4 @@ int main() {
 
     cout << max_height(array,1);
     return 0;
-}*/
+}
