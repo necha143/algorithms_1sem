@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 typedef struct tree_elem{
@@ -76,4 +76,4 @@ int main(){
     twoWays.preorderPrint(twoWays.root);
 
     return 0;
-}*/
+}
