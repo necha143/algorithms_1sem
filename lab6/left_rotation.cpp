@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -137,4 +136,4 @@ int main(){
 
     print(n, array);
     return 0;
-}*/
+}
