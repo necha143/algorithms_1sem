@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -145,4 +144,4 @@ int main() {
 
     BAN.print(root, n, array1, array2, array3);
     return 0;
-}*/
+}
