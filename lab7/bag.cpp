@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 int S; int N;
@@ -31,4 +30,4 @@ int main() {
 
     bag(array);
     return 0;
-}*/
+}
