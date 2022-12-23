@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -43,4 +42,4 @@ int main() {
 
     sequence(array, len, next, n);
     return 0;
-}*/
+}
